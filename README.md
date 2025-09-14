@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sachin Singh
-- 👀 Aspiring Cloud/Devops Engineer
+- 👀 Cloud/Devops Engineer
 - 🌱 Support engineer with 6 Years of expirience.
 - 🌱 Managing and supporting cloud accounts and services for all the active clients including Microsoft 365, Azure, proof point as email domain manager, go daddy, VMware, Green cloud, Trend micro, VCenter, 
      Fortinet/FortiGate, Cisco, File servers. Application local server and Virtual machines, Veam for backups
