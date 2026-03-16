@@ -33,7 +33,7 @@ I have 5 years of experience in IT infrastructure, system administration, and cl
 📫 Connect with me
 
 Email: Sachinsingh0511@gmail.com/ Ph- +91-7042334861  
-LinkedIn: linkedin.com/in/sachin-singh-8166b3134 
+LinkedIn: https://www.linkedin.com/in/sachin-singh-8166b3134/ 
 <!---
 Sachin8801/Sachin8801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
