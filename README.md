@@ -1,12 +1,39 @@
-- 👋 Hi, I’m Sachin Singh
-- 👀 Cloud/Devops Engineer
-- 🌱 Support engineer with 6 Years of expirience.
-- 🌱 Managing and supporting cloud accounts and services for all the active clients including Microsoft 365, Azure, proof point as email domain manager, go daddy, VMware, Green cloud, Trend micro, VCenter, 
-     Fortinet/FortiGate, Cisco, File servers. Application local server and Virtual machines, Veam for backups
-- 📫 I am looking to Explore more on Cloud technologies and Devops methodology 
-- 💞️ Please feel free to collaborate on Cloud and Devops projects.  
-- 📫 Reach me at Sachinsingh0511@gmail.com/ Ph - +91-7042334861
-- 💞️ Learning is the continous process. For any collaboration please feel free to conect at Sachinsingh0511@gmail.com
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-green)
+![DevOps](https://img.shields.io/badge/DevOps-Automation-purple)
+
+👋 Hi, I’m Sachin Singh
+
+🚀 DevOps Enthusiast | Senior System Administrator | Cloud & Automation
+
+I have 5 years of experience in IT infrastructure, system administration, and cloud support. Currently transitioning into DevOps by building hands-on projects around CI/CD pipelines, containerization, and automation.
+
+🔧 Technologies & Tools
+- Linux (Ubuntu)
+- Docker & Containerization
+- CI/CD (GitHub Actions)
+- Git & GitHub
+- Bash Scripting
+- AWS & Azure
+- Infrastructure Monitoring & Troubleshooting
+
+📦 DevOps Projects
+- DevSecOps CI/CD Pipeline – AI Banking Application
+- CI/CD Pipeline for Flask Web Application
+- Dockerized Application Deployments
+
+🌱 Currently Learning
+- Kubernetes
+- Infrastructure as Code
+- Advanced CI/CD & DevSecOps Practices
+
+🤝 Open to collaboration on DevOps, Cloud, and automation projects.
+
+📫 Connect with me
+
+Email: Sachinsingh0511@gmail.com/ Ph- +91-7042334861  
+LinkedIn: linkedin.com/in/sachin-singh-8166b3134 
 <!---
 Sachin8801/Sachin8801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
