@@ -5,7 +5,6 @@
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-green)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-Practices-purple)
-![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-orange)
 
 ---
 # 👋 Hi, I'm Sachin Singh
